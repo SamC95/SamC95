@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,html,css,sass,bootstrap" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,electron,kotlin,swift,mysql,firebase,php" />
+  <img src="https://skillicons.dev/icons?i=java,cs,nodejs,electron,kotlin,swift,mysql,firebase,php" />
 </p>
 
 <!--
