@@ -8,11 +8,9 @@
   <a href="https://www.linkedin.com/in/sam-clark-23451730b/">
      <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
-  <!---
-  <a href="">
+  <a href="https://sam-clark-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
-  -->
   <a href="mailto:sam.clark48@hotmail.co.uk">
      <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
