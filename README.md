@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Hi! I'm a recent Software Engineering graduate currently specialising in TypeScript & Java. I have experience developing full-stack web applications, back-end APIs, mobile applications and more!
+  Hi! I'm a Software Developer currently specialising in TypeScript, C# & Java. I have experience developing full-stack web applications, RESTful APIs, mobile applications and more!
 </p>
 
 ### <p align="center">Technical Skills</p>
