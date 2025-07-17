@@ -23,7 +23,7 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,html,css,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,html,css,sass,bootstrap,tailwind" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,nodejs,electron,kotlin,swift,flutter,mysql,firebase,php" />
