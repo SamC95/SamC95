@@ -1,23 +1,14 @@
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamC95&layout=compact&theme=dark"/> 
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sam-clark-23451730b/">
      <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
-  <a href="https://sam-clark-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
-  </a>
-  <a href="mailto:sam.clark48@hotmail.co.uk">
+  <a href="mailto:samclark.developer@gmail.com">
      <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  Hi! I'm a Software Developer currently specialising in TypeScript, C# & Java. I have experience developing full-stack web applications, RESTful APIs, mobile applications and more!
+  Hi! I'm a Junior Software Engineer at General Dynamics Mission Systems UK. I have experience developing full-stack web applications, RESTful APIs, mobile applications and more!
 </p>
 
 ### <p align="center">Technical Skills</p>
@@ -26,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,html,css,sass,bootstrap,tailwind" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,c,nodejs,electron,kotlin,swift,flutter,mysql,firebase,php" />
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,rust,nodejs,electron,kotlin,swift,flutter,mysql,firebase,php" />
 </p>
 
 <!--
